@@ -5,7 +5,7 @@
 %define keepstatic 1
 Name     : brotli
 Version  : 1.0.9
-Release  : 14
+Release  : 15
 URL      : https://github.com/google/brotli/archive/v1.0.9/brotli-1.0.9.tar.gz
 Source0  : https://github.com/google/brotli/archive/v1.0.9/brotli-1.0.9.tar.gz
 Summary  : Brotli encoder library
